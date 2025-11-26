@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "grasp1": "node grasp/information_expert.js",
-    "start02": "node desafio02/creator.js"
+    "grasp2": "node desafio02/creator.js"
   },
   "author": "Matheus",
   "license": "MIT"
